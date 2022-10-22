@@ -14,7 +14,7 @@ global.APIKeys = {
 
 // setting 
 global.autoread = false // auto read message
-global.autobio = true 
+global.autobio = false 
 global.userRegister = false 
 global.autoblok212 = true //ubah jadi true biar nmr 212 di blok sama bot
 
@@ -42,8 +42,8 @@ global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder i
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '꯱ׁׅ֒ᨰׁׅɑׁׅ֮ժׁׅ݊꯱ׁׅ֒ - ϐׁׅ֒ᨵׁׅtׁׅ'//sticker wm ubah
-global.author = '© STARS.Yugo~' //sticker wm ganti nama kalian
+global.packname = '2022'//sticker wm ubah
+global.author = '꯱ׁׅ֒ᨰׁׅɑׁׅ֮ժׁׅ݊꯱ׁׅ֒ - ϐׁׅ֒ᨵׁׅtׁׅ'//sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
