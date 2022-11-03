@@ -5266,7 +5266,7 @@ async function startalpha() {
         for (let _0x1c6bf5 of _0x584da9) {
             _0x3aabc9[_0x26d017(0xfd6, 0xd40, 0xae3, 0xdd0, 0xd58)]({
                 'displayName': await _0x3d495c[_0x26d017(0x4ac, 0x601, 0x83c, 0xa43, 0x674) + 'me'](_0x36150c[_0x26d017(0x9b1, 0xa0d, 0xad8, 0x7f9, 0xa64)](_0x1c6bf5, _0x36150c[_0x26d017(0xc1d, 0x89c, 0x9f7, 0xcdd, 0x63f)])),
-                'vcard': `BEGIN:VCARD\nVERSION:3.0\nFN:Yugo~\nORG:Owner Bot\nitem1.TEL;type=CELL;type=VOICE;waid=+62 882-9374-2724\nitem1.X-ABLabel:Do not call me\nitem2.EMAIL;type=INTERNET:Nothing\nitem2.X-ABLabel:Email\nitem3.URL:Nothing\nitem3.X-ABLabel:Instagram\nitem4.ADR:;;Indonesia;;;;\nitem4.X-ABLabel:Region\nitem5.X-ABRELATEDNAMES;type=pref:Owner Nolep\nEND:VCARD`
+                'vcard': `BEGIN:VCARD\nVERSION:3.0\nFN:Yugo~\nORG:Owner Bot\nitem1.TEL;type=CELL;type=VOICE;waid=6288293742724:+62 882-9374-2724\nitem1.X-ABLabel:Do not call me\nitem2.EMAIL;type=INTERNET:Nothing\nitem2.X-ABLabel:Email\nitem3.URL:Nothing\nitem3.X-ABLabel:Instagram\nitem4.ADR:;;Indonesia;;;;\nitem4.X-ABLabel:Region\nitem5.X-ABRELATEDNAMES;type=pref:Owner Nolep\nEND:VCARD`
 	    });
         }
         const _0x4c654c = {};
