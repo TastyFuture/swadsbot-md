@@ -26,6 +26,8 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
+global.jumlha = '999'
+global.jumhal = '100000000000000'
 global.botname = "꯱ׁׅ֒ᨰׁׅɑׁׅ֮ժׁׅ݊꯱ׁׅ֒ - ϐׁׅ֒ᨵׁׅtׁׅ"//namabot kalian
 global.ownername = "꯱ׁׅ֒ᨰׁׅɑׁׅ֮ժׁׅ݊꯱ׁׅ֒ - ϐׁׅ֒ᨵׁׅtׁׅ" //nama kalian
 global.myweb ="https://instagram.com/tasty_futuree" //bebas asal jan hapus
