@@ -6253,7 +6253,7 @@ async function startalpha() {
             'productMessage': {
                 'product': {
                     'productImage': {
-                        'url': myweb2,
+                        'url': _0x36150c[_0x4e955f(0x46c, 0x752, 0xa2d, 0x1f2, 0x619)],
                         'mimetype': _0x36150c[_0x4e955f(0x1ab, -0x2aa, -0x50, -0x224, 0x8a)],
                         'fileSha256': _0x36150c[_0x28c30c(0x660, 0x991, 0x9d2, 0x709, 0x352)],
                         'fileLength': _0x36150c[_0x54e885(0x82a, 0x588, 0x1f1, 0x544, 0x68a)],
@@ -6285,7 +6285,7 @@ async function startalpha() {
             'productMessage': {
                 'product': {
                     'productImage': {
-                        'url': myweb2,
+                        'url': _0x36150c[_0x4619f3(0x981, 0x800, 0x7f0, 0xb92, 0x3f1)],
                         'mimetype': _0x36150c[_0x4619f3(0x98, 0x271, 0x398, 0x34f, 0x2e9)],
                         'fileSha256': _0x36150c[_0x5e5689(0x60b, 0x7ed, 0x7a9, 0x90d, 0xbd3)],
                         'fileLength': _0x36150c[_0x13cf2a(0x6a0, 0x2f2, 0x566, 0x385, 0x5b5)],
