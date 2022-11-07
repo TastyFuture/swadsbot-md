@@ -62,24 +62,12 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 - Tonton [Di YouTube](https://youtu.be/M8H9S3djxTg)
 
-<p align="center">
-<a href="https://youtu.be/M8H9S3djxTg"><img src="https://telegra.ph/file/682c1315ff9a43bb1a724.jpg" />
-</p>
-
 ## HOW TO CONNECT TO MONGODB
 
 - [Tonton Di YouTube](https://youtu.be/lBEExh-09D8)
 
-<p align="center">
-<a href="https://youtu.be/lBEExh-09D8"><img src="https://telegra.ph/file/4464e566d6c578e1f94cd.jpg" />
-</p>
-
 ## For Termux
 - [Download script MediaFire](https://telegra.ph/file/5f3dcbfb5a43066f25f6f.jpg)
-
-<p align="center">
-<a href="https://youtu.be/983P1OwOzaE"><img src="https://telegra.ph/file/5f3dcbfb5a43066f25f6f.jpg" />
-</p>
 
 ## Edit Owner 
 
@@ -217,12 +205,6 @@ global.rpg = {
 ## ```HOW TO DEPLOY```
 
 [`Click Here For Tutorial`](https://youtu.be/RaUQUTrXK90?t=4m28s)<br>
-
-----------
-
-<p align="center">
-  <a href="https://youtu.be/SdKHkld2NcI"><img src="https://a.top4top.io/p_2081imvxm1.jpg" />
-</p>
 
 ## Donate
 - [Qris all pay](https://telegra.ph/file/447be9e64d95c825f692b.jpg)
