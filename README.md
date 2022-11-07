@@ -43,9 +43,9 @@
 
 ## Support Language
 
-- [x] Indonesia
-- [x] Spanish
-- [x] English
+- [✔️] Indonesia
+- [✔️] Spanish
+- [✔️] English
 
 But some I haven't changed the language 🛐
 
