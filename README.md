@@ -212,4 +212,4 @@ For Help | Owner Chikabot |
 Owner of Baileys | Owner of Api Alphabot |
 <a href="https://github.com/TastyFuture"><img src="https://github.com/TastyFuture.png?size=100" width="100" height="100"></a>	
 [TastyFuture](https://github.com/TastyFuture)
-Recode	
+Owner Swadsbot
