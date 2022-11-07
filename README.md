@@ -38,7 +38,7 @@
 ---
 
 ## Information
-> Bot ini hanyalah hasil recode saya dari SC asli Alphabot-Md. Saya hanya menghilangkan bug, mengubah tampilan, dan menyeting banyak hal agar tidak terjadi error.
+> Bot ini hanyalah hasil recode dari SC asli Alphabot-Md. Saya hanya menghilangkan bug, mengubah tampilan, dan menyeting banyak hal agar tidak terjadi error.
 > Script ini hanya digunakan untuk keperluan saya pribadi dan tidak untuk diperjualbelikan.
 
 ## Support Language
