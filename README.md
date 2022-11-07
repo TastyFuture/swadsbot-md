@@ -30,7 +30,6 @@
 - [Mongodb Connect](#how-to-connect-to-mongodb)
 - [Install bot termux](#for-termux)
 - [Edit Owner](#edit-owner)
-- [Priview bot feature](#fitur-bot-preview)
 - [Deploy to heroku](#how-to-deploy)
 - [Donate](#donate)
 - [Alphabot group](#official-group)
@@ -183,23 +182,6 @@ global.rpg = {
 }
 ```
 
-</details>
-
-## Fitur bot preview
-<details>
-<summary> <b>Menu bot</b></summary><br/>
-<img src="https://telegra.ph/file/c438a5d2931a2c5228735.jpg" />
-<img src="https://telegra.ph/file/51ef048fdd08cffcef075.jpg" />
-</details>
-
-<details>
-<summary> <b>First chat</b></summary><br/>
-<img src="https://telegra.ph/file/98dce708f8bfdb73c175e.jpg" />
-</details>
-
-<details>
-<summary> <b>Register</b></summary><br/>
-<img src="https://telegra.ph/file/ca4d6b39f9b596de02b9b.jpg" />
 </details>
 
 ## ```HOW TO DEPLOY```
