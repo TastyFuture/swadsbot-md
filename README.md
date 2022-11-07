@@ -69,17 +69,10 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 - [Download script MediaFire](https://telegra.ph/file/5f3dcbfb5a43066f25f6f.jpg)
 
 ## Edit Owner 
-
-<details>
-    <summary> <b>Edit Owner Settings.js</b></summary><br/>
-
-```ts
 - Change Owner Number [Here](https://github.com/TastyFuture/swadsbot-md/blob/master/settings.js)
 - Change Owner Name [Here](https://github.com/TastyFuture/swadsbot-md/blob/master/settings.js)
 - Change Bot Name [Here](https://github.com/TastyFuture/swadsbot-md/blob/master/settings.js)
 ```
-
-</details>
 
 ## ```HOW TO DEPLOY```
 
