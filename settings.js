@@ -2,21 +2,21 @@ const fs = require('fs')
 const chalk = require('chalk')
 const  { indonesia, english, spanyol} = require(`./language`)
 
-// Website Api (jgn di ganti tomlol)
+// Website Api (jgn diganti)
 global.APIs = {
 	alfa: 'https://alphabot-api.herokuapp.com', //apabila link api eror, segera laporkan ke owner
 }
 
-// Free apikey (Apikey expired silahkan login terus ganti V12 dgn apikey lu)
+// Free apikey (Apikey expired silahkan login terus ganti 'LPGJZruR' dgn apikey baru)
 global.APIKeys = {
 	'https://api.zeeoneofc.xyz': 'LPGJZruR',  // 👉 login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
 }
 
 // setting 
-global.autoread = false // auto read message
-global.autobio = false 
-global.userRegister = false 
-global.autoblok212 = true //ubah jadi true biar nmr 212 di blok sama bot
+global.autoread = false //auto read message
+global.autobio = false //ubah jadi true biar bagus, klo ga mau ya gpp
+global.userRegister = false //ubah jadi true kalo mau aktifin fitur register
+global.autoblok212 = true //auto block nmr 212
 
 //language
 //Available in indonesia , english & spanyol 
@@ -30,13 +30,13 @@ global.jumlha = '999'
 global.jumhal = '100000000000000'
 global.botname = "꯱ׁׅ֒ᨰׁׅɑׁׅ֮ժׁׅ݊꯱ׁׅ֒ - ϐׁׅ֒ᨵׁׅtׁׅ"//namabot kalian
 global.ownername = "꯱ׁׅ֒ᨰׁׅɑׁׅ֮ժׁׅ݊꯱ׁׅ֒ - ϐׁׅ֒ᨵׁׅtׁׅ" //nama kalian
-global.myweb ="https://instagram.com/tasty_futuree" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
-global.myweb2 = "https://instagram.com/tasty_futuree" //bebas
+global.myweb ="https://instagram.com/tasty_futuree" //bebas asal jgn hapus
+global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jgn hapus
+global.myweb2 = "https://instagram.com/tasty_futuree" //bebas terserah kalian
 global.email = "yugopama@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['6288293742724'] //premium user
+global.premium = ['6288293742724'] //premium user, kalo ga bisa pake botnya aja ketik .addprem @user(tag orangnya)
 global.owner = ["6288293742724"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "6288293742724" // nomor wa kalian
 global.ownernomerr = "+6288293742724" //nmr wa kalian
@@ -46,7 +46,7 @@ global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" //
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
 global.packname = '2022'//sticker wm ubah
 global.author = '꯱ׁׅ֒ᨰׁׅɑׁׅ֮ժׁׅ݊꯱ׁׅ֒ - ϐׁׅ֒ᨵׁׅtׁׅ'//sticker wm ganti nama kalian
-global.sessionName = 'session'
+global.sessionName = 'session'//ini jgn diganti biar ga error
 global.typemenu = 'document'
 global.multiplier = 69
 global.limitawal = {
