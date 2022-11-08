@@ -41,6 +41,17 @@
 > Bot ini hanyalah hasil recode dari SC asli Alphabot-Md. Saya hanya menghilangkan bug, mengubah tampilan, dan menyeting banyak hal agar tidak terjadi error.
 > Script ini hanya digunakan untuk keperluan saya pribadi dan tidak untuk diperjualbelikan.
 
+KELEBIHAN 📍
+- [✔️] Fast Respon
+- [✔️] Fitur Banyak
+- [✔️] Support Button
+- [✔️] Multi Device
+- [✔️] Simple
+
+KELEMAHAN 📍
+- Beberapa fitur tidak bekerja karena apikey mati (beberapa sudah saya fix)
+- Terdapat bug pada fitur yang dienkripsi oleh creator (hal ini diluar tanggung jawab saya sebagai owner)
+
 ## ```Support Language```
 
 - [✔️] Indonesia
