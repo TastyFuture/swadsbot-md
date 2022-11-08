@@ -51,11 +51,17 @@ But some I haven't changed the language 🛐
 
 # Instalasi
 ## Heroku Buildpack
-```bash
-heroku/nodejs
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-```
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TastyFuture/swadsbot-md)
+
+| BuildPack | LINK |
+|--------|--------|
+| **heroku/nodejs** | |
+| **FFMPEG** |[here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
+| **WEBP-BINARIES** | [here](https://github.com/clhuang/heroku-buildpack-webp-binaries.git) |
+
+## How to Deploy
+
+[`Click Here For Tutorial`](https://youtu.be/RaUQUTrXK90?t=4m28s)<br>
 
 ## How to Get Mongodb URI
 
@@ -72,10 +78,6 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 - Change Owner Number [Here](https://github.com/TastyFuture/swadsbot-md/blob/master/settings.js)
 - Change Owner Name [Here](https://github.com/TastyFuture/swadsbot-md/blob/master/settings.js)
 - Change Bot Name [Here](https://github.com/TastyFuture/swadsbot-md/blob/master/settings.js)
-
-## ```HOW TO DEPLOY```
-
-[`Click Here For Tutorial`](https://youtu.be/RaUQUTrXK90?t=4m28s)<br>
 
 ## Donate
 - [Qris all pay](https://telegra.ph/file/447be9e64d95c825f692b.jpg)
