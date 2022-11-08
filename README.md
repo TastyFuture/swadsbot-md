@@ -42,11 +42,11 @@
 > Script ini hanya digunakan untuk keperluan saya pribadi dan tidak untuk diperjualbelikan.
 
 KELEBIHAN :
-- Fast Respon [✔️]
-- Fitur Banyak [✔️]
+- Simple         [✔️]
+- Fast Respon    [✔️]
+- Multi Device   [✔️]
+- Fitur Banyak   [✔️]
 - Support Button [✔️]
-- Multi Device [✔️]
-- Simple [✔️]
 
 KELEMAHAN :
 - Beberapa fitur tidak bekerja karena apikey mati (beberapa sudah saya fix)
@@ -54,9 +54,9 @@ KELEMAHAN :
 
 ## ```Support Language```
 
-- [✔️] Indonesia
-- [✔️] Spanish
-- [✔️] English
+- Indonesia 🇮🇩
+- Spanish 🇪🇸
+- English 🇬🇧
 
 But some I haven't changed the language 🛐
 
