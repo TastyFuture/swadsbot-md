@@ -72,7 +72,6 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 - Change Owner Number [Here](https://github.com/TastyFuture/swadsbot-md/blob/master/settings.js)
 - Change Owner Name [Here](https://github.com/TastyFuture/swadsbot-md/blob/master/settings.js)
 - Change Bot Name [Here](https://github.com/TastyFuture/swadsbot-md/blob/master/settings.js)
----------
 
 ## ```HOW TO DEPLOY```
 
