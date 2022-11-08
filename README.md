@@ -111,7 +111,7 @@ Owner Swadsbot
  		<td> <img src="https://github.com/TastyFuture.png?size=100" width="100" height="100"> </td>
  	</tr>
  	<tr>
- 		<td> [TastyFuture](https://github.com/TastyFuture) </td>
+ 		<td> <a href="https://github.com/TastyFuture">TastyFuture</a> </td>
  	</tr>
   <tr>
     <td> Owner Swadsbot </td>
