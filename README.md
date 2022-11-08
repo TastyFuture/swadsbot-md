@@ -106,5 +106,4 @@ Owner of Baileys | Owner of Api Alphabot |
 Owner Swadsbot
 
 #  ```Recode By 💌```
-| <a href="https://github.com/TastyFuture"><img src="https://github.com/TastyFuture.png?size=100" width="100" height="100"></a> | Testing |
-| [TastyFuture](https://github.com/TastyFuture) | Owner Swadsbot
+<a href="https://github.com/TastyFuture"><img src="https://github.com/TastyFuture.png?size=100" width="100" height="100"></a>\n[TastyFuture](https://github.com/TastyFuture)\nOwner Swadsbot
