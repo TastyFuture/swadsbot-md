@@ -21,27 +21,27 @@
 
 ---
 
-## Contents:
+## ```Contents:```
 - [Information](#information)
 - [Language support](#support-language)
 - [Install bot](#instalasi)
 - [Buildpack heroku](#heroku-buildpack)
+- [Deploy to heroku](#how-to-deploy)
 - [Mongodb Account](#how-to-get-mongodb-uri)
 - [Mongodb Connect](#how-to-connect-to-mongodb)
 - [Install bot termux](#for-termux)
 - [Edit Owner](#edit-owner)
-- [Deploy to heroku](#how-to-deploy)
 - [Donate](#donate)
 - [Alphabot group](#official-group)
 - [Thanks to](#thanks-to)
 
 ---
 
-## Information
+## ```Information```
 > Bot ini hanyalah hasil recode dari SC asli Alphabot-Md. Saya hanya menghilangkan bug, mengubah tampilan, dan menyeting banyak hal agar tidak terjadi error.
 > Script ini hanya digunakan untuk keperluan saya pribadi dan tidak untuk diperjualbelikan.
 
-## Support Language
+## ```Support Language```
 
 - [✔️] Indonesia
 - [✔️] Spanish
@@ -49,7 +49,7 @@
 
 But some I haven't changed the language 🛐
 
-# Instalasi
+# ```Instalasi```
 ## Heroku Buildpack
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TastyFuture/swadsbot-md)
 
@@ -67,27 +67,27 @@ But some I haven't changed the language 🛐
 
 - Tonton [Di YouTube](https://youtu.be/M8H9S3djxTg)
 
-## HOW TO CONNECT TO MONGODB
+## How to Connect to MONGODB
 
 - [Tonton Di YouTube](https://youtu.be/lBEExh-09D8)
 
 ## For Termux
 - [Download script MediaFire](https://telegra.ph/file/5f3dcbfb5a43066f25f6f.jpg)
 
-## Edit Owner 
+## ```Edit Owner```
 - Change Owner Number [Here](https://github.com/TastyFuture/swadsbot-md/blob/master/settings.js)
 - Change Owner Name [Here](https://github.com/TastyFuture/swadsbot-md/blob/master/settings.js)
 - Change Bot Name [Here](https://github.com/TastyFuture/swadsbot-md/blob/master/settings.js)
 
-## Donate
+## ```Donate```
 - [Qris all pay](https://telegra.ph/file/447be9e64d95c825f692b.jpg)
 - [Paypal](https://paypal.me/zeeoneofc)
 - [Saweria](https://saweria.co/syakata)	
 
-# Official Group
+# ```Official Group```
 <a href="https://instabio.cc/Alphabot"><img src="https://img.shields.io/badge/Alphabot Support-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-# Thanks to
+# ```Thanks To```
 <a href="https://github.com/DikaArdnt"><img src="https://github.com/DikaArdnt.png?size=100" width="100" height="100"></a> | [![NURUTOMO](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) 
 ---|---
 [Dika](https://github.com/DikaArdnt)  | [Nurutomo](https://github.com/Nurutomo)
@@ -104,3 +104,7 @@ Owner of Baileys | Owner of Api Alphabot |
 <a href="https://github.com/TastyFuture"><img src="https://github.com/TastyFuture.png?size=100" width="100" height="100"></a>	
 [TastyFuture](https://github.com/TastyFuture)
 Owner Swadsbot
+
+#  ```Recode By 💌```
+[![TastyFuture](https://github.com/TastyFuture.png?size=100)](https://github.com/TastyFuture)
+Owner Swadsbot  
