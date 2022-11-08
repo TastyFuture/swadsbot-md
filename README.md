@@ -87,7 +87,7 @@ But some I haven't changed the language 🛐
 # ```Official Group```
 <a href="https://instabio.cc/Alphabot"><img src="https://img.shields.io/badge/Alphabot Support-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-# ```Thanks To```
+# ```Thanks To ✨```
 <a href="https://github.com/DikaArdnt"><img src="https://github.com/DikaArdnt.png?size=100" width="100" height="100"></a> | [![NURUTOMO](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) 
 ---|---
 [Dika](https://github.com/DikaArdnt)  | [Nurutomo](https://github.com/Nurutomo)
@@ -101,9 +101,6 @@ For Help | Owner Chikabot |
 <a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a> | [![ZEEONE](http://github.com/zeeone-ofc.png?size=100)](http://github.com/zeeone-ofc) 
 [Adiwajshing](https://github.com/adiwajshing) | [zeeone-ofc](https://zeeone-ofc.github.io)
 Owner of Baileys | Owner of Api Alphabot |
-<a href="https://github.com/TastyFuture"><img src="https://github.com/TastyFuture.png?size=100" width="100" height="100"></a>	
-[TastyFuture](https://github.com/TastyFuture)
-Owner Swadsbot
 
 #  ```Recode By 💌```
 <table>
