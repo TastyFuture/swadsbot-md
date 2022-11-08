@@ -47,13 +47,13 @@ KELEBIHAN :
 - [✔️] Multi Device   
 - [✔️] Fitur Banyak   
 - [✔️] Support Button
-- [✔️] Multi Languange
+- [✔️] Multi Language
 
 KELEMAHAN :
 - Beberapa fitur tidak bekerja karena apikey mati (beberapa sudah saya fix)
 - Terdapat bug pada fitur yang dienkripsi oleh creator (hal ini diluar tanggung jawab saya sebagai owner)
 
-## ```Support Language```
+## ```Supported Languages```
 
 - Indonesia
 - Spanish
