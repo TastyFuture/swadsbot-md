@@ -225,7 +225,7 @@ global.asmaulhusna = {
                 "index": "13",
                 "latin": "Al Mushawwir",
                 "arabic": "الْمُصَوِّرُ",
-                "translation_id": "Yang Memiliki Mutlak sifat YangMembentuk Rupa (makhluknya)",
+                "translation_id": "Yang Memiliki Mutlak sifat Yang Membentuk Rupa (makhluknya)",
                 "translation_en": "The Fashioner of Forms"
             },
             {
@@ -267,49 +267,49 @@ global.asmaulhusna = {
                 "index": "19",
                 "latin": "Al ‘Aliim",
                 "arabic": "اَلْعَلِيْمُ",
-                "translation_id": "Yang Memiliki Mutlak sifatMengetahui (Memiliki Ilmu)",
+                "translation_id": "Yang Memiliki Mutlak sifat Mengetahui (Memiliki Ilmu)",
                 "translation_en": "The All Knowing, the Omniscient"
             },
             {
                 "index": "20",
                 "latin": "Al Qaabidh",
                 "arabic": "الْقَابِضُ",
-                "translation_id": "Yang Memiliki Mutlak sifat YangMenyempitkan (makhluknya)",
+                "translation_id": "Yang Memiliki Mutlak sifat Yang Menyempitkan (makhluknya)",
                 "translation_en": "The Restrainer, the Straightener"
             },
             {
                 "index": "21",
                 "latin": "Al Baasith",
                 "arabic": "الْبَاسِطُ",
-                "translation_id": "Yang Memiliki Mutlak sifat YangMelapangkan (makhluknya)",
+                "translation_id": "Yang Memiliki Mutlak sifat Yang Melapangkan (makhluknya)",
                 "translation_en": "The Expander, the Munificent"
             },
             {
                 "index": "22",
                 "latin": "Al Khaafidh",
                 "arabic": "الْخَافِضُ",
-                "translation_id": "Yang Memiliki Mutlak sifat YangMerendahkan (makhluknya)",
+                "translation_id": "Yang Memiliki Mutlak sifat Yang Merendahkan (makhluknya)",
                 "translation_en": "The Abaser"
             },
             {
                 "index": "23",
                 "latin": "Ar Raafi’",
                 "arabic": "الرَّافِعُ",
-                "translation_id": "Yang Memiliki Mutlak sifat YangMeninggikan (makhluknya)",
+                "translation_id": "Yang Memiliki Mutlak sifat Yang Meninggikan (makhluknya)",
                 "translation_en": "The Exalter"
             },
             {
                 "index": "24",
                 "latin": "Al Mu’izz",
                 "arabic": "الْمُعِزُّ",
-                "translation_id": "Yang Memiliki Mutlak sifat YangMemuliakan (makhluknya)",
+                "translation_id": "Yang Memiliki Mutlak sifat Yang Memuliakan (makhluknya)",
                 "translation_en": "The Giver of Honor"
             },
             {
                 "index": "25",
                 "latin": "Al Mudzil",
                 "arabic": "المُذِلُّ",
-                "translation_id": "Yang Memiliki Mutlak sifatYang Menghinakan (makhluknya)",
+                "translation_id": "Yang Memiliki Mutlak sifat Yang Menghinakan (makhluknya)",
                 "translation_en": "The Giver of Dishonor"
             },
             {
@@ -351,7 +351,7 @@ global.asmaulhusna = {
                 "index": "31",
                 "latin": "Al Khabiir",
                 "arabic": "الْخَبِيرُ",
-                "translation_id": "Yang Memiliki Mutlak sifatMaha Mengetahui Rahasia",
+                "translation_id": "Yang Memiliki Mutlak sifat Maha Mengetahui Rahasia",
                 "translation_en": "The All Aware"
             },
             {
@@ -379,7 +379,7 @@ global.asmaulhusna = {
                 "index": "35",
                 "latin": "As Syakuur",
                 "arabic": "الشَّكُورُ",
-                "translation_id": "Yang Memiliki Mutlak sifat MahaPembalas Budi (Menghargai)",
+                "translation_id": "Yang Memiliki Mutlak sifat Maha Pembalas Budi (Menghargai)",
                 "translation_en": "The Grateful"
             },
             {
@@ -414,7 +414,7 @@ global.asmaulhusna = {
                 "index": "40",
                 "latin": "Al Hasiib",
                 "arabic": "الْحسِيبُ",
-                "translation_id": "Yang Memiliki Mutlak sifat MahaMembuat Perhitungan",
+                "translation_id": "Yang Memiliki Mutlak sifat Maha Membuat Perhitungan",
                 "translation_en": "The Reckoner"
             },
             {
@@ -547,7 +547,7 @@ global.asmaulhusna = {
                 "index": "59",
                 "latin": "Al Mu’iid",
                 "arabic": "الْمُعِيدُ",
-                "translation_id": "Yang Memiliki Mutlak sifat MahaMengembalikan Kehidupan",
+                "translation_id": "Yang Memiliki Mutlak sifat Maha Mengembalikan Kehidupan",
                 "translation_en": "The Reinstater Who Brings Back All"
             },
             {
@@ -610,14 +610,14 @@ global.asmaulhusna = {
                 "index": "68",
                 "latin": "As Shamad",
                 "arabic": "الصَّمَدُ",
-                "translation_id": "Yang Memiliki Mutlak sifat MahaDibutuhkan, Tempat Meminta",
+                "translation_id": "Yang Memiliki Mutlak sifat Maha Dibutuhkan, Tempat Meminta",
                 "translation_en": "The Self Sufficient, the Impregnable,the Eternally Besought of All, the Everlasting"
             },
             {
                 "index": "69",
                 "latin": "Al Qaadir",
                 "arabic": "الْقَادِرُ",
-                "translation_id": "Yang Memiliki Mutlak sifat MahaMenentukan, Maha Menyeimbangkan",
+                "translation_id": "Yang Memiliki Mutlak sifat Maha Menentukan, Maha Menyeimbangkan",
                 "translation_en": "The All Able"
             },
             {
@@ -722,14 +722,14 @@ global.asmaulhusna = {
                 "index": "84",
                 "latin": "Malikul Mulk",
                 "arabic": "مَالِكُ الْمُلْكِ",
-                "translation_id": "Yang Memiliki Mutlak sifatPenguasa Kerajaan (Semesta)",
+                "translation_id": "Yang Memiliki Mutlak sifat Penguasa Kerajaan (Semesta)",
                 "translation_en": "The Owner of All Sovereignty"
             },
             {
                 "index": "85",
                 "latin": "Dzul JalaaliWal Ikraam",
                 "arabic": "ذُوالْجَلاَلِوَالإكْرَامِ",
-                "translation_id": "Yang Memiliki Mutlak sifat PemilikKebesaran dan Kemuliaan",
+                "translation_id": "Yang Memiliki Mutlak sifat Pemilik Kebesaran dan Kemuliaan",
                 "translation_en": "The Lord of Majesty and Generosity"
             },
             {
@@ -785,7 +785,7 @@ global.asmaulhusna = {
                 "index": "93",
                 "latin": "An Nuur",
                 "arabic": "النُّورُ",
-                "translation_id": "Yang Memiliki Mutlak sifat Maha Bercahaya(Menerangi, Memberi Cahaya)",
+                "translation_id": "Yang Memiliki Mutlak sifat Maha Bercahaya (Menerangi dan Memberi Cahaya)",
                 "translation_en": "The Light"
             },
             {
