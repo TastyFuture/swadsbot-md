@@ -8437,7 +8437,7 @@ db.data.users[m.sender].limit -= 1
 	break
 
 // Islamic Menu
-case 'asna':
+case 'asmaulhusna':
 let asmaulhusna = JSON.stringify(global.asmaulhusna)
     let json = JSON.parse(asmaulhusna)
     let data = json.result.data.map((v, i) => `${i + 1}. ${v.latin}\n${v.arabic}\n${v.translation_id}`).join('\n\n')
