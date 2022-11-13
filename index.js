@@ -9147,7 +9147,7 @@ var raw = res.split(/\s/)
 break				
 case 'brly':
 if (!text) return reply(lang.KisahNabi(prefix, command, 'negara asean'))
-let res = await fetchJson(`https://api.lolhuman.xyz/api/brainly?apikey=85faf717d0545d14074659ad&query=${text}`)
+let brly = await fetchJson(`https://api.lolhuman.xyz/api/brainly?apikey=85faf717d0545d14074659ad&query=${text}`)
 let answer = `*Brainly Search*
 Berikut adalah beberapa jawaban yang kami temukan...
 	
