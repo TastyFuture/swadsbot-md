@@ -21,6 +21,8 @@
 require('./settings')
 const { default: makeWASocket, BufferJSON, WAMessageStubType, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, downloadContentFromMessage, downloadHistory, proto, getMessage, generateWAMessageContent, prepareWAMessageMedia , generateWAMessage, areJidsSameUser, makeInMemoryStore} = require('@adiwajshing/baileys')
 const translate = require('@vitalets/google-translate-api')
+const Virdina = require('./lib/Virdina')
+const brainly = require('brainly-scraper')	
 const fs = require('fs')
 const util = require('util')
 const chalk = require('chalk')
@@ -9092,8 +9094,8 @@ function batasan(amount, batas) {
 }
 
 //  /brainly <pertanyaan> -<jumlah>
-case 'brnly':
-alpha.createCommand('brnly', function(msg, res) {
+case 'brnly':			
+Virdina.createCommand('brnly', function(msg, res) {
 
         var raw = res.split(/\s/)
         var amount = Number(raw[raw.length - 1].split('-')[1]) || 5
@@ -9115,20 +9117,20 @@ alpha.createCommand('brnly', function(msg, res) {
         BrainlySearch(question, batasan(amount, BATAS), function(res) {
             console.log('test')
             console.log(`[INFO] Getting the answer from Brainly : ${question}`.yellow)
-            reply(`┌ *Pertanyaan : ${question}*\n│ *Jumlah Jawaban : ${batasan(amount, BATAS)} (default 5, max ${BATAS})*\n└ _Sedang mendapatkan jawaban dari Brainly.co.id..._\n\n${urlQuestion}`)
+            Virdina.replyMessage(`┌ *Pertanyaan : ${question}*\n│ *Jumlah Jawaban : ${batasan(amount, BATAS)} (default 5, max ${BATAS})*\n└ _Sedang mendapatkan jawaban dari Brainly.co.id..._\n\n${urlQuestion}`)
             res.forEach(x => {
                 //prevent spam
                 setTimeout(() => {
                   // console.log('BRAINLY!')
                     if (x.jawaban.fotoJawaban.length <= 0) {
                       setTimeout(()=>{
-                        reply(`Pertanyaan❓\n${x.pertanyaan}\n\nJawaban✅\n${x.jawaban.judulJawaban}\n\n*🖼️Foto Jawaban*\n${x.jawaban.fotoJawaban.join('\n') || "[KOSONG]"}`)
+                        Virdina.replyMessage(`Pertanyaan❓\n${x.pertanyaan}\n\nJawaban✅\n${x.jawaban.judulJawaban}\n\n*🖼️Foto Jawaban*\n${x.jawaban.fotoJawaban.join('\n') || "[KOSONG]"}`)
                       },3000)
                     } else {
                         let getExtention = /[^.]+$/.exec(x.jawaban.fotoJawaban[0].trim());
                         let randomName = Math.floor(Math.random() * 1000);
                         x.jawaban.fotoJawaban.forEach(fotoBrainly=>{
-                        alpha.downloadImage(fotoBrainly.trim(), `image/brainly${randomName}.${getExtention}`, () => {
+                        Virdina.downloadImage(fotoBrainly.trim(), `image/brainly${randomName}.${getExtention}`, () => {
                             console.log('[INFO] download img success')
                             let imgBase64 = fs.readFileSync(`image/brainly${randomName}.${getExtention}`, 'base64')
                             const media = new MessageMedia(`image/brainly${randomName}.${getExtention}`, imgBase64)
