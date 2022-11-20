@@ -72,7 +72,7 @@ But some I haven't changed the language 🛐
 | **WEBP-BINARIES** | [here](https://github.com/clhuang/heroku-buildpack-webp-binaries.git) |
 
 How to Deploy
-[`Click Here For Tutorial`](https://youtu.be/RaUQUTrXK90?t=4m28s)<br>
+[Click Here For Tutorial](https://youtu.be/RaUQUTrXK90?t=4m28s)<br>
 
 ## For Termux
 ```bash
