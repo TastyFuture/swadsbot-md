@@ -71,9 +71,21 @@ But some I haven't changed the language 🛐
 | **FFMPEG** |[here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
 | **WEBP-BINARIES** | [here](https://github.com/clhuang/heroku-buildpack-webp-binaries.git) |
 
-## How to Deploy
-
+How to Deploy
 [`Click Here For Tutorial`](https://youtu.be/RaUQUTrXK90?t=4m28s)<br>
+
+## For Termux
+```bash
+$ pkg upgrade && pkg update[Download Script](https://blog.zeeoneofc.xyz/2022/02/alphabot-md.html)
+$ pkg install bash
+$ termux-setup-storage
+$ cd /sdcard
+$ cp -r Alphabot-Md $HOME
+$ cd
+$ cd Alphabot-Md
+$ bash install.sh
+```
+- [Download Script Disini](https://blog.zeeoneofc.xyz/2022/02/alphabot-md.html)
 
 ## How to Get Mongodb URI
 
@@ -82,9 +94,6 @@ But some I haven't changed the language 🛐
 ## How to Connect to MONGODB
 
 - Tonton [Di YouTube](https://youtu.be/lBEExh-09D8)
-
-## For Termux
-- [Download script MediaFire](https://telegra.ph/file/5f3dcbfb5a43066f25f6f.jpg)
 
 ## ```Edit Owner```
 - Change Owner Number [Here](https://github.com/TastyFuture/swadsbot-md/blob/master/settings.js)
