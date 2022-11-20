@@ -74,7 +74,7 @@ But some I haven't changed the language 🛐
 
 ## For Termux
 ```bash
-$ pkg upgrade && pkg update[Download Script](https://blog.zeeoneofc.xyz/2022/02/alphabot-md.html)
+$ pkg upgrade && pkg update
 $ pkg install bash
 $ termux-setup-storage
 $ cd /sdcard
