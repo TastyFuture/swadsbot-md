@@ -88,18 +88,18 @@ $ bash install.sh
 
 # ```Database Bot```
 Cara Membuat Akun & Database MongoDB
-- Tonton [Di YouTube](https://youtu.be/M8H9S3djxTg)
+- [`Tonton Di YouTube`](https://youtu.be/M8H9S3djxTg)
 
 Cara Menghubungkan Bot ke Database MongoDB
-- Tonton [Di YouTube](https://youtu.be/lBEExh-09D8)
+- [`Tonton Di YouTube`](https://youtu.be/lBEExh-09D8)
 
 Keuntungan
-[✔️] Save Database
-[✔️] Hemat Storage
-[✔️] Free Database
-[✔️] List Store No Reset
-[✔️] Antilink No Reset
-[✔️] Welcome No Reset
+- [✔️] Save Database
+- [✔️] Hemat Storage
+- [✔️] Free Database
+- [✔️] List Store No Reset
+- [✔️] Antilink No Reset
+- [✔️] Welcome No Reset
 
 ## ```Edit Owner```
 - Change Owner Number [Here](https://github.com/TastyFuture/swadsbot-md/blob/master/settings.js)
