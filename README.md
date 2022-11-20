@@ -71,11 +71,9 @@ But some I haven't changed the language 🛐
 | **FFMPEG** |[here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
 | **WEBP-BINARIES** | [here](https://github.com/clhuang/heroku-buildpack-webp-binaries.git) |
 
-[Click Here For Tutorial](https://youtu.be/RaUQUTrXK90?t=4m28s)<br>
+[`Click Here For Tutorial`](https://youtu.be/RaUQUTrXK90?t=4m28s)<br>
 
 ## For Termux
-[Download Script Disini](https://blog.zeeoneofc.xyz/2022/02/alphabot-md.html)
-
 ```bash
 $ pkg upgrade && pkg update[Download Script](https://blog.zeeoneofc.xyz/2022/02/alphabot-md.html)
 $ pkg install bash
@@ -86,6 +84,7 @@ $ cd
 $ cd Alphabot-Md
 $ bash install.sh
 ```
+[`Download Script Disini`](https://blog.zeeoneofc.xyz/2022/02/alphabot-md.html)
 
 ## How to Get Mongodb URI
 
