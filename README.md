@@ -86,13 +86,20 @@ $ bash install.sh
 ```
 [`Download Script Disini`](https://blog.zeeoneofc.xyz/2022/02/alphabot-md.html)
 
-## How to Get Mongodb URI
-
+# ```Database Bot```
+Cara Membuat Akun & Database MongoDB
 - Tonton [Di YouTube](https://youtu.be/M8H9S3djxTg)
 
-## How to Connect to MONGODB
-
+Cara Menghubungkan Bot ke Database MongoDB
 - Tonton [Di YouTube](https://youtu.be/lBEExh-09D8)
+
+Keuntungan
+[✔️] Save Database
+[✔️] Hemat Storage
+[✔️] Free Database
+[✔️] List Store No Reset
+[✔️] Antilink No Reset
+[✔️] Welcome No Reset
 
 ## ```Edit Owner```
 - Change Owner Number [Here](https://github.com/TastyFuture/swadsbot-md/blob/master/settings.js)
